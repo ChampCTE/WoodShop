@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AA5. Casos de uso:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AA5__Casos_de_uso_jar</output-path>
+    <root id="archive" name="AA5. Casos de uso.jar">
+      <element id="module-output" name="AA5. Casos de uso" />
+    </root>
+  </artifact>
+</component>
